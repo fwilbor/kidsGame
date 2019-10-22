@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cow",
+    "image": "/images/cow.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "WordSheep",
+    "image": "/images/WordSheep.JPG"
+  },
+  {
+    "id": 3,
+    "name": "Chicken",
+    "image": "/images/chicken.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "WordHorse",
+    "image": "/images/WordHorse.JPG"
+  },
+  {
+    "id": 5,
+    "name": "WordPig",
+    "image": "/images/WordPig.JPG"
+  },
+  {
+    "id": 6,
+    "name": "Horse",
+    "image": "/images/horse.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "WordCow",
+    "image": "/images/WordCow.JPG"
+  },
+  {
+    "id": 8,
+    "name": "Goat",
+    "image": "/images/goat.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Sheep",
+    "image": "/images/sheep.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "WordGoat",
+    "image": "/images/WordGoat.JPG"
+  },
+  {
+    "id": 11,
+    "name": "Pig",
+    "image": "/images/pig.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "WordChicken",
+    "image": "/images/WordChicken.JPG"
+  }
+]
